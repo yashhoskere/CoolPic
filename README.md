@@ -1,5 +1,5 @@
 
-# CoolPic webapp - Implemeneted with Django       <img alt="GitHub" src="https://img.shields.io/github/license/smahesh29/Django-WebApp">
+# CoolPic webapp - Implemeneted with Django       
 
 
 This was a self learning project.
