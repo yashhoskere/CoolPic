@@ -1,15 +1,15 @@
 
-# Django-WebApp       <img alt="GitHub" src="https://img.shields.io/github/license/smahesh29/Django-WebApp">
+# CoolPic webapp - Implemeneted with Django       <img alt="GitHub" src="https://img.shields.io/github/license/smahesh29/Django-WebApp">
 
 
-This project was done by me as a assignment for an internship.
+This was a self learning project.
 
-<h2>Assignment Problem Statement:</h2>
+<h2>Goal</h2>
 
 <h4>Part 1:</h4>
 <ol>
-    <li>Create a web-app where a user can login.</li>
-    <li>User can upload files.</li>
+    <li>Create user login.</li>
+    <li>User can upload different files.</li>
     <li>User can view his/her uploaded files.</li>
 </ol>
 
@@ -31,8 +31,7 @@ This project was done by me as a assignment for an internship.
 <ul>
     <li>Python</li>
     <li>Django</li>
-    <li>Bootstrap</li>
-    <li>JavaScript</li>
+    <li>Little bit of Bootstrap</li>
 </ul>
     
 <h2>Additional Python Modules Required:</h2>
@@ -68,10 +67,3 @@ This project was done by me as a assignment for an internship.
 <img src="Screenshots/Django WebApp - Google Chrome 04-12-2019 13_41_50.png" height="400" width="800">
 <img src="Screenshots/Django WebApp - Google Chrome 03-12-2019 20_48_45.png" height="400" width="800">
 
-# Support :
-If you found this project helpful or you learned something from the source code and want to thank me, consider me to pay my internet bills. This would encourage me to create many such projects 👨🏻‍💻
-<ul>
-    <li><a href="https://www.paypal.me/smahesh29"><b>PayPal</b></a></li>
-    <li><a href="https://imjo.in/XNZDCJ"><b>₹ (INR)</b></a></li>
-    <li><b>UPI ID :</b> maheshusa29@oksbi</li>
-</ul>
